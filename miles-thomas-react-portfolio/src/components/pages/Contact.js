@@ -6,7 +6,7 @@ export default function Contact() {
             <h2>Contact</h2>
             <input type={'text'} placeholder={'Please enter your name'}></input>
             <input type={'text'} placeholder={'Please enter your email address'}></input>
-            <input type={'text'} placeholder={'Please enter your message'}></input>
+            <textarea></textarea>
             <button>Submit</button>
         </div>
     );

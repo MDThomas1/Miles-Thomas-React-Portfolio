@@ -1,0 +1,41 @@
+body {
+    background-color: oldlace;
+}
+
+header {
+    min-height: 120px;
+    top: 0;
+}
+
+header h1 {
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+footer {
+    min-height: 110px;
+    text-align: center;
+}
+
+.nav-item {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.current {
+    text-shadow: 0 0 10px red;
+}
+
+.project {
+    width: 80%;
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.aboutMe {
+    text-align: center;
+}

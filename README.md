@@ -10,6 +10,7 @@ A portfolio of works made using a react format.
 * [License](#License)
 
 ## Link to Deployed Site
+https://mdthomas1.github.io/Miles-Thomas-React-Portfolio/
 
 ## Installation
 N/A

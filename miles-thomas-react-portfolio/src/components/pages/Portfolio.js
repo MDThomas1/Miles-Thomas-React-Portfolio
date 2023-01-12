@@ -1,8 +1,10 @@
 import React from 'react';
 
+import projects from './projects'
+
 import Project from './Project'
 
-export default function Portfolio({ projects }) {
+export default function Portfolio() {
     return (
         <div className='portfolio'>
             <h2>Portfolio</h2>

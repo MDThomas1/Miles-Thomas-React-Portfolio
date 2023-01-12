@@ -5,11 +5,14 @@ body {
 header {
     min-height: 120px;
     top: 0;
+    background-color: blue;
+
 }
 
-header h1 {
+h1 {
     padding-top: 15px;
     padding-left: 15px;
+    color: azure;
 }
 
 footer {
@@ -17,9 +20,25 @@ footer {
     text-align: center;
 }
 
+h2 {
+    text-decoration: underline;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nav {
+    background-color: darkgreen;
+}
+
 .nav-item {
     display: inline-block;
     margin-left: 25px;
+    color: azure;
 }
 
 .current {
@@ -36,6 +55,11 @@ footer {
     margin-bottom: 20px;
 }
 
-.aboutMe {
-    text-align: center;
+.portrait {
+    max-height: 75px;
+}
+
+.contact-form {
+    margin-top: 15px;
+    margin-bottom: 15px;
 }

@@ -8,6 +8,7 @@ export default function Project(props) {
                 <img src={`${props.image}`}></img>
             </a>
             <p>{props.description}</p>
+            <a href={`${props.github}`}>Github</a>
         </div>
     );
 }

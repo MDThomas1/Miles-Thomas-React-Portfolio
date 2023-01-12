@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Miles-Thomas-React-Portfolio/static/css/main.85f607c4.css",
+    "main.js": "/Miles-Thomas-React-Portfolio/static/js/main.918c8bf7.js",
+    "index.html": "/Miles-Thomas-React-Portfolio/index.html",
+    "main.85f607c4.css.map": "/Miles-Thomas-React-Portfolio/static/css/main.85f607c4.css.map",
+    "main.918c8bf7.js.map": "/Miles-Thomas-React-Portfolio/static/js/main.918c8bf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85f607c4.css",
+    "static/js/main.918c8bf7.js"
+  ]
+}

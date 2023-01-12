@@ -1,6 +1,3 @@
-
-
-
 const projects = [
     {
         name: 'Quiz Me',
